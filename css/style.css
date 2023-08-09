@@ -13,6 +13,8 @@ body.popupOn .layerPop {
 }
 
 .test {
+    color: orange;
+    font-size: 200px;
     position: fixed;
     left: 0;
     top: 0;
